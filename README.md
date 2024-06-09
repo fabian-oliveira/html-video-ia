@@ -1,3 +1,10 @@
+<p align="center">
+<img 
+    src="./assets/capa.png"
+    width="900"  
+/>
+</p>
+
 # Vídeo:Podcast Heróis da Tag: Jornada no Código HTML🎥
 
 ## 📒 Descrição
